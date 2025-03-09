@@ -14,5 +14,7 @@ public class Lab {
      */
     public void throwUncheckedException(){
 
+        double illogical = 1 / 0;
+    
     }
 }
